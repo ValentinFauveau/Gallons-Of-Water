@@ -10,7 +10,7 @@ Some examples:
 - For an array A = [2, 3, 4, 4, 3, 2, 1] the answer is 0.
 
 I have never been good at these programming challenges. I always look for the most optimal solution but with the little time they give the interviewees I lose concentration and end up stressing myself until I give up.
-I probably would not have passed the interview, however, after he showed me the most optimal solution I told him that I thought I could develop a faster solution using AI.
+I probably would not have passed the interview, however, after he showed me the most optimal solution I told him that I thought I could develop a faster solution using a Deep Neural Network.
 
 My idea was to create a data generator using the programmatic solution and overfit my model by training it infinite number of times to achieve 100% accuracy.
 
